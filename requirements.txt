@@ -1,0 +1,6 @@
+torch
+gymnasium
+numpy
+pandas
+matplotlib
+traci
